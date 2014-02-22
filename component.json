@@ -1,0 +1,10 @@
+{
+  "name": "css-defaults",
+  "repo": "segmentio/css-defaults",
+  "version": "0.0.1",
+  "description": "css defaults",
+  "main": "index.json",
+  "scripts": ["index.json"],
+  "version": "0.0.1",
+  "dependencies": {}
+}
